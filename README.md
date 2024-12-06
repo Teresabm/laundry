@@ -19,5 +19,5 @@ Este proyecto es una práctica que refuerza conocimientos sobre diseño de inter
 
 -Diseño en [Figma](https://www.figma.com/)
 
--Imagenes en [storyset](https://unsplash.com/)
+-Imagenes en [unsplash](https://unsplash.com/)
 
