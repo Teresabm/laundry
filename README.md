@@ -11,7 +11,7 @@ Este proyecto es una práctica que refuerza conocimientos sobre diseño de inter
 
 **Visualización en tamaño Movil:**
 
-![Movil-size](./src/assets/img-movil.jpeg "Movil-size")
+![Movil-size](../assets/img-movil.jpeg "Movil-size")
 
 ### Recursos:
 
