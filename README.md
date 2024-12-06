@@ -7,14 +7,14 @@ Este proyecto es una práctica que refuerza conocimientos sobre diseño de inter
 
 **Tamaño Desktop:**
 
-![Desktop-size](./src/assets/img-desktop.jpeg "Desktop-size")
+![Desktop-size](./assets/img-desktop.jpeg "Desktop-size")
 
 **Visualización en tamaño Movil:**
 
-![Movil-size](../assets/img-movil.jpeg "Movil-size")
+![Movil-size](./assets/img-movil.jpeg "Movil-size")
 
 ### Recursos:
 
-*Font en [Google Fonts](https://fonts.google.com/)
-*Diseño en [Figma](https://www.figma.com/)
-*Imagenes en [storyset](https://unsplash.com/)
+-Font en [Google Fonts](https://fonts.google.com/)
+-Diseño en [Figma](https://www.figma.com/)
+-Imagenes en [storyset](https://unsplash.com/)
