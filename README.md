@@ -16,5 +16,8 @@ Este proyecto es una práctica que refuerza conocimientos sobre diseño de inter
 ### Recursos:
 
 -Font en [Google Fonts](https://fonts.google.com/)
+
 -Diseño en [Figma](https://www.figma.com/)
+
 -Imagenes en [storyset](https://unsplash.com/)
+
